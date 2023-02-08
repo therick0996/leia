@@ -1,4 +1,4 @@
-21504366319357972
+21511363604701178
 Artwork
 Longboard
 
@@ -56567,6 +56567,13 @@ ArduinoProMicro_Type_C
 24
 24
 Keeb_footprints
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+Keeb_footprints
 D_SOD-123_modified
 SOD-123
 SOD-123
@@ -56636,6 +56643,20 @@ Through hole socket strip THT 1x06 2.54mm single row
 0
 6
 6
+Keeb_footprints
+MX200
+
+
+0
+0
+0
+Keeb_footprints
+MX700R
+
+
+0
+0
+0
 Keeb_footprints
 MX_100
 
@@ -56860,6 +56881,13 @@ PIN_HEADER_1x6_OFFSET
 0
 6
 6
+Keeb_footprints
+R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
 Keeb_footprints
 TRRS_Splt
 
